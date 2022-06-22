@@ -1,0 +1,3 @@
+C:/proga/algos/Administrator/cmake-build-debug/CMakeFiles/Administrator.dir
+C:/proga/algos/Administrator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/proga/algos/Administrator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
